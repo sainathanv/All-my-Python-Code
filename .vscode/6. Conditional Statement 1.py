@@ -16,5 +16,3 @@ elif maths >= 60 and physics >= 60 and chemistry >= 60:
     print("You have scored a D grade in all subjects.")
 else:
         print("You have scored a F grade in all subjects.")
-
-# Let's run it!

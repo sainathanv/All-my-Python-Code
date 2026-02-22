@@ -17,5 +17,3 @@ if maths >= 35:
         print("You have failed the exam.")
 else:
     print("You have failed the exam.")      # Like this, something! Don't see the matter.... See the logic and the control flow!
-
-print("This is the end of the program.")
