@@ -1,0 +1,16 @@
+strng = "Hello World"
+
+print(strng[0])
+print(strng[6])
+print(strng[-1])
+print(strng[0:5])
+print(strng[6:11])
+print(strng[:5])
+print(strng * 3)
+print(strng + " Sairam")
+print(strng.upper())
+print(strng.lower())
+print(strng.replace("World", "Sairam"))
+print(strng.split(" "))
+print(strng.find("o"))
+print(strng.count("o"))
