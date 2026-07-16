@@ -22,5 +22,3 @@ sorted_a = insertion_sort(a)
 print(sorted_a)
 
 # Thank you!
-
-#A Sample for PR
