@@ -1,6 +1,5 @@
-import pandas as pd
+import pandas as pd 
 
-# Create a simple DataFrame
 data = {
     "Name": ["Alice", "Bob", "Charlie"],
     "Marks": [85, 90, 78],
@@ -9,11 +8,9 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Display DataFrame
 print("DataFrame:")
 print(df)
 
-# Basic operations
 print("\nAverage Marks:", df["Marks"].mean())
 print("Maximum Marks:", df["Marks"].max())
 
